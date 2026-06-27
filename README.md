@@ -86,7 +86,13 @@ Open project
 
 ```bash
 cd AI-Deadline-Hero
-```
+# 🚀 AI Deadline Hero
+
+## 🌐 Live Demo
+
+https://ai-deadline-bxmydw4fa4yyfnztb8twdg.streamlit.app/
+
+---
 
 Install dependencies
 
@@ -139,10 +145,10 @@ AI Deadline Hero uses Artificial Intelligence to generate personalized study and
 
 **Nilu kumari**
 
-BCA Student | AI & Data Science Enthusiast
+ 1st year BCA Student | AI & Data Science Enthusiast
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/singhnilu2029-blip
 
 ---
 
